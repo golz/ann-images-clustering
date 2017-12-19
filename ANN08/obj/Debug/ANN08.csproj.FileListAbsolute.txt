@@ -1,0 +1,15 @@
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\ANN08.exe.config
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\ANN08.exe
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\ANN08.pdb
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\obj\Debug\ANN08.csprojResolveAssemblyReference.cache
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\obj\Debug\ANN08.MainForm.resources
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\obj\Debug\ANN08.Properties.Resources.resources
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\obj\Debug\ANN08.csproj.GenerateResource.Cache
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\obj\Debug\ANN08.exe
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\obj\Debug\ANN08.pdb
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\Accord.dll
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\Accord.Imaging.dll
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\Accord.Math.Core.dll
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\Accord.Math.dll
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\Accord.Neuro.dll
+c:\users\gd\documents\visual studio 2015\Projects\ANN08\ANN08\bin\Debug\Accord.Statistics.dll
